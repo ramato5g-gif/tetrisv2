@@ -1,0 +1,8 @@
+{
+  "static_gate": "REQUIRES_GITHUB_BUILD",
+  "issues": [],
+  "kotlin_files": 2,
+  "github_build": "NON ESEGUITA",
+  "ux_review": "NON ESEGUITA",
+  "quality_certified": false
+}

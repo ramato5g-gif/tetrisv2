@@ -1,0 +1,11 @@
+{
+  "request": "Crea un'app di tetris completa di tutto in kotlin andoid",
+  "target": "Android Kotlin",
+  "acceptance": [
+    "funzioni richieste",
+    "persistenza",
+    "gestione errori",
+    "accessibilita",
+    "test su dispositivo"
+  ]
+}
